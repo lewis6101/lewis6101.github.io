@@ -1,0 +1,10 @@
+h1{color:pink; }
+
+body{background: lightyellow; color:green; font-size: 20pt;}
+body{font-family: 'Permanent Marker', cursive;}
+nav li {border: 2px dashed pink;display: inline-block;padding:10px;margin:5px;} 
+nav li:hover{background:yellow}
+	a {color:darkred;text-decoration:none;} 
+	a:hover{color:red:}
+
+h1 {border-left: 8px solid blue} 
